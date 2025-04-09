@@ -1,0 +1,8 @@
+best_model.pt
+*.pyc
+__pycache__/
+*.pkl
+*.log
+*.json
+*.csv
+*.txt
